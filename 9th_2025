@@ -1,1 +1,33 @@
-# Weekly Report
+## Now, TODO is ..
+**1. CIRCOS for Locus and Modification**
+	: Indexing Methylation site, Genes of RM, AMR
+**2. GapMind**
+	: Journal Meeting
+**3. Construction of Sp.-specific AMR PointMutation db**
+	: Scheme for adaptation to co-MAGE screening
+**4. Space Biology**
+	: Interpretation of Transcriptome in Microgravity
+
+## This Week ..
+- CIRCOS for Locus and Modification
+- Space Biology
+
+---
+## 1. CIRCOS for Locus and Modification
+
+**In `eevee/val/ktkim/-`**
+**Installation : `conda install -c conda-forge pycirclize`**
+**Test of _Circos Plot for Genomics_ :**
+<p align="left">
+  <img src="Pasted image 20250228152908.png" width="25%">
+</p>
+
+---
+
+## 2. SpaceBiology
+
+1) Adaptation DESeq2 : Batch effect를 고려한 Integrated_DEG analysis
+
+2) EggNOG mapper_ 개별 유전자 수준 annotation에서, MMseqs2 cluster representative sequence id 수준의 annotation으로 통합
+
+3) GO Slim 적용
